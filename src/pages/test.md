@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
